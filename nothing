@@ -1,0 +1,43 @@
+[33mcommit 7ef998dd98065ab1a08c937a1803d4e8550bec2f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: df82fa5 30b289b
+Author: Karak10 <alexisgiafis@gmail.com>
+Date:   Tue Oct 5 20:43:25 2021 +0300
+
+    Pulled the all the newest commits from remote repository
+
+[33mcommit df82fa5dab099b958bddf812e09a5c83cb00374b[m
+Author: Karak10 <alexisgiafis@gmail.com>
+Date:   Tue Oct 5 20:39:08 2021 +0300
+
+    Added fourth test line
+
+[33mcommit 30b289bc78d11b06c4799baa41f2253a5f738b5a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Karak10 <79798049+Karak10@users.noreply.github.com>
+Date:   Tue Oct 5 20:38:11 2021 +0300
+
+    Third test line
+
+[33mcommit 0346f895e65b0d548b4f38a4dc73282ea4eb5e8b[m
+Merge: 7518979 8f606bf
+Author: Karak10 <alexisgiafis@gmail.com>
+Date:   Tue Oct 5 20:35:49 2021 +0300
+
+    Merged first and second test lines
+
+[33mcommit 75189791fe48a1fcb8965425cbff4d0a2a7676ea[m
+Author: Karak10 <alexisgiafis@gmail.com>
+Date:   Tue Oct 5 20:32:39 2021 +0300
+
+    Added second test line
+
+[33mcommit 8f606bfa3113a1669cfeebcf332c3b9f3a040ef7[m
+Author: Karak10 <79798049+Karak10@users.noreply.github.com>
+Date:   Tue Oct 5 20:29:45 2021 +0300
+
+    Added first test line
+
+[33mcommit a2727d95afdbaaf4466ecea051ce8ac87a80df67[m
+Author: Karak10 <alexisgiafis@gmail.com>
+Date:   Tue Oct 5 20:22:00 2021 +0300
+
+    My first commit
